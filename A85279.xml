@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vnparallel'd reasons for abollishing episcopacy. 1. It will assure his Majesties authority royall. 2. Increase his revenue. 3. Settle a good union in his Majesties owne kingdomes, and between them and other reformed churches. 4. Cause a good understanding betweene his Majesty and his people. By N. F. Esquire.</title>
+            <author>Fiennes, Nathaniel, 1607 or 8-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85279</idno>
+            <idno type="STC">Wing F883</idno>
+            <idno type="STC">Thomason E121_39</idno>
+            <idno type="STC">ESTC R22631</idno>
+            <idno type="EEBO-CITATION">99871803</idno>
+            <idno type="PROQUEST">99871803</idno>
+            <idno type="VID">124220</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85279)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124220)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E121[39])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Vnparallel'd reasons for abollishing episcopacy. 1. It will assure his Majesties authority royall. 2. Increase his revenue. 3. Settle a good union in his Majesties owne kingdomes, and between them and other reformed churches. 4. Cause a good understanding betweene his Majesty and his people. By N. F. Esquire.</title>
+                  <author>Fiennes, Nathaniel, 1607 or 8-1669.</author>
+               </titleStmt>
+               <extent>[2], 8 [i.e. 6] p.   </extent>
+               <publicationStmt>
+                  <publisher>for S.S. dwelling in Budge-row, at the signe of the blacke Bull,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Nathaniel Fiennes. Cf. BLC.</note>
+                  <note>Page 6 is misnumbered 8.</note>
+                  <note>Annotation on Thomason copy: "Octo: 12".</note>
+                  <note>Title page contains printer's device (McK. 269-272)</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Episcopacy --  Early works to 1800.</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Brian Matzke</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Brian Matzke</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124220:1"/>
+            <pb facs="tcp:124220:1" rendition="simple:additions"/>
+            <p>Vnparallel'd REASONS for abolliſhing Epiſcopacy.</p>
+            <list>
+               <item>1. <hi>It will aſſure his Majeſties authority Royall.</hi>
+               </item>
+               <item>2. <hi>Increaſe his Revenue.</hi>
+               </item>
+               <item>3. <hi>Settle a good union in his Majeſties owne Kingdomes, and between them and other reformed Churches.</hi>
+               </item>
+               <item>4. <hi>Cauſe a good underſtanding betweene his Majeſty and his people.</hi>
+               </item>
+            </list>
+            <p>By <hi>N. F.</hi> Eſquire.</p>
+            <figure>
+               <figDesc>fleur de lis</figDesc>
+            </figure>
+            <p>Printed at London for <hi>S. S.</hi> dwelling in Budge-row, at the ſigne of the blacke Bull. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:124220:2"/>
+            <pb n="1" facs="tcp:124220:2"/>
+            <head>Vnparallel'd Reaſons for abo<g ref="char:EOLhyphen"/>liſhing of Epiſcopacy.</head>
+            <div n="1" type="reason">
+               <head>1 <hi>It will aſſure his Majeſties Royall Authority.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Biſhops have, and doe claime their power as of di<g ref="char:EOLhyphen"/>vine right, intitling themſelves to their ſeverall dig<g ref="char:EOLhyphen"/>nities by the permiſſion or Grace of God; and their authority accordingly: delegating it to others to exe<g ref="char:EOLhyphen"/>cute under them in their owne rights, in their names and under their Seales, terming the Clergy under them their ſubjects, and exacting an Oath of obedience from them.</p>
+               <p>It is very prejudiciall to ſoveraigne power that ſuch a claime ſhould be ſet up or upheld, becauſe it not onely introduceth a right ſuperior to all Civill power, ſo that it neither may be limited, nor can be controled by it, but alſo inforceth by con<g ref="char:EOLhyphen"/>ſequence the acknowledgement of Forraigne power, for the li<g ref="char:EOLhyphen"/>mits of Civill Jurisdiction, being not of force to ſet bounds unto Divine Right; a Biſhop ſhall by divine right have authority with<g ref="char:EOLhyphen"/>in the Dominions of a prince to whom he is no ſubject, in caſe his Dioceſſe ſhall extend into the territories of ſeverall ſufferages, which it may doe as well as the pretended Juriſdiction of the Bi<g ref="char:EOLhyphen"/>ſhop of Rome doth.</p>
+               <p n="2">2 It may be very dangerous to Soveraigne power, and the whol Civill State, that the Clergy ſhould in-body it ſelfe within it ſelfe by which meanes it may be drawne into a faction againſt it, for
+<pb n="4" facs="tcp:124220:3"/> being united into a body it is made able to be a ſtrong faction, and being ſo is liable by practice to be drawne againſt the State. The more united this Body is, and the greater dependance it hath by ſubordinate Officers, upon ſome one or few heads, the more dangerous it is; becauſe more expoſed to parties, and more capa<g ref="char:EOLhyphen"/>ble to act or to be acted, and to put any thing into execution, ſpeedily, ſecretly and unanimouſly.</p>
+               <p>By meanes of this Corporation of the Clergy with their de<g ref="char:EOLhyphen"/>pendance upon a few Biſhops, and of them upon one Arch-Biſhop, the Pope ruling the whole body of the Clergy within this King<g ref="char:EOLhyphen"/>dome at his pleaſure, raiſed conſtantly a potent Faction againſt the Kings of this Realme.</p>
+               <p>Since the Reformation though Biſhops have bin knocked off from the Pope, yet were they never joynted into the King and his Authority, to derive and exerciſe power under him, but re<g ref="char:EOLhyphen"/>maine in all things as before, and ſo are ready upon any occaſion to be coupled againe to their old head, or to any other which they ſhall make amongſt themſelves when time ſhall ſerve, &amp; the time will ſerve for ſuch a purpoſe, when by his Majeſties power they ſhall have totally ſuppreſſed the party oppoſite unto them, where<g ref="char:EOLhyphen"/>of they ſtand in feare, for they will then reduce the Clergy unto an abſolute blind obedience unto them againe, and by them the people, and by both the Prince as formerly they have done.</p>
+               <p n="3">3. Such a Faction cannot be ſafe for the King, for if they be uſed againſt him, they are as dangerous as they are potent, and if they be uſed by him it is worſe, by reaſon it will continually keep up great jealouſies and miſ-underſtandings betweene him and his people.</p>
+               <p>Beſides, to make the prince which ſhould be the head of the whole, to be the head of a Faction is a demunition tending to deſtruction, the next ſtep below it tending to make him head of nothing, in caſe the party whereon he doth rely, either faile him, <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> betray him, and that Faction that one while may ſeeme to ſerve <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, another while upon the turne of times, and change
+<pb n="5" facs="tcp:124220:3"/> of circumſtances may be uſed as powerfully againſt him.</p>
+               <p n="4">4. The two oppoſite parties the Biſhops and thoſe that are a<g ref="char:EOLhyphen"/>gainſt them, are now ſo exaſperated and pointed one againſt the the other, that either the one or the other muſt fall and bee ſup<g ref="char:EOLhyphen"/>preſſed, if the Biſhops ſupported by his Majeſty ſhall prevaile, and ſuppreſſe totally the other party, his Majeſtie will be wholy in their hands again as his Predeceſſors have been, for they will be able to rule abſolutely the Clergy, and the people, and then it was not their uſe to be ruled by their Prince, if the other ſide pre<g ref="char:EOLhyphen"/>vaile againſt the Biſhops (as poſſibly they may have to deal with a party long ſince rejected by other reformed Churches, and late<g ref="char:EOLhyphen"/>ly ſo blaſted in both the Kingdomes of England and Scotland) then will his Majeſty run the hazard that they do, which ſupport a tottering wall.</p>
+               <p n="5">5. It wil encreaſe his Majeſties revenues. The temporalities of the Biſhops being in this bill granted to the King, there wil be an augmentation of his revenues, by the conſtant rent of them, and beſides by fines upon leaſes and otherwiſe there will bee op<g ref="char:EOLhyphen"/>portunities and mean<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for his Majeſty to gratifie his ſervants, that will be now diſappointed of monopolies and projects. And that his Majeſty may take theſe lands thus given without ſcruple, is clear by theſe conſiderations following. As times termed that the Clergy in the conſtitution they now are in under Biſhops, have been a potent faction againſt the liberties of the Subject, and the purity and power of Religion, the aboliſhing of Epiſcopacy muſt needes give them a great ground of aſſurance in thoſe reſpects.</p>
+               <p>As to civill rights and liberties, becauſe men of all rankes have ſuffered in their perſon and eſtates by the power of this faction. Thoſe of the better ſort have felt their ſharp teeth, and their ill wil to the Subjects liberties in the houſe of Peers, Star-chamber, Counſell Table and the high Commiſſion. Thoſe of inferiour ranks have felt the ſting of their tayls in their Ecleſiaſticall courts, wherein by their under Officers, they have pilled and polled the
+<pb n="6" facs="tcp:124220:4"/> poor people at their pleaſure, and laid upon them a burden hea<g ref="char:EOLhyphen"/>vier then ever ſhip money was unto them.</p>
+               <p>Neither can they beleeve that theſe have bin the perſonall faults only of ſome few men, ſeeing it hath been ſo generall to the whole tribe, and ſo conſtant at all times, not this time excepted that they have lien under ſuch a cloud, and yet have been as ready to do or ſuffer any thing, which might be to the prejudice of the Subject as heretofore.</p>
+               <p>Laſtly, they finde that their aims, intereſts, and dependancies are ſuch, as that they will alwaies do the like, and that both the fearn and exerciſe of their government, being altogether diverſe from, and diſproportionable unto that of the civill ſtate, they are obliged thereby to run counter to it.</p>
+               <p>As to Religion becauſe the jealouſies of an alteration intended therein ariſing from the introduction of divers popiſh innovati<g ref="char:EOLhyphen"/>ons and ceremonies, and the ſuppreſſing of preaching, it is evi<g ref="char:EOLhyphen"/>dent that the Biſhops and their adherents, have beene the author therof. And conſequently;</p>
+               <p n="1">1 There can be no means ſo potent to aſſure mens mindes that there is no intention of returning to popery, as the aboliſhing of Epiſcopacy, whereby we ſhall receive further from popery, than ever we did ſince the reformation, as by the late innovations we were drawn neerer to it, then ever we were ſince the reformation. Thoſe that think this to be a running too farre to the other ex<g ref="char:EOLhyphen"/>tream, ſhould alſo conſider, admitting it were ſo, yet being a thing indifferent, and fearfull to be done, whether it be not ne<g ref="char:EOLhyphen"/>ceſſary, at leaſt expedient to do it at this time, for the ſatisfaction of mens mindes, that have bin poſſeſſed with ſo great and ſo juſt a jealouſie in reſpect of the latter declining ſo far to the other ex<g ref="char:EOLhyphen"/>tream.</p>
+               <p n="2">2. Multitudes cannot thinke themſelves ſecure from popery and popiſh innovations ſo long as Epiſcopacy continueth, becauſe conceive, that as Epiſcopacy and Popery were hatched and grew up to their height together, ſo that they are bottomed upon the
+<pb n="7" facs="tcp:124220:4"/> ſame grounds and principles, there being the ſame reaſon for an Archbiſhop, and ſo for a Patriarch, and a pope, to keepe Biſhops from Schiſmes and factions as that there ſhould be a Biſhop over other Presbiters, to keepe them from ſchiſmes, and generally throughout, that the ſame reaſons which ſerve to maintaine the one, ſerve proportionably to maintain the other, and that the ſame effects that follow upon the one, will alſo proportionably follow upon the other, and withall they obſerve that there hath not been the like ſhew and fear of defection unto popery in any reformed Church, as in this, where Biſhops are retained, and that it hath proceeded alſo from the Biſhops and their adherents.</p>
+               <p n="3">3. Multitudes cannot think themſelves ſecure from alteration in religion, till they are aſſured of the preaching of Gods Word, whereby mens minds may be inſtructed, and eſtabliſhed in the truth. They cannot be aſſured of the enjoying of preaching ſo long as Biſhops continue, for they have found to be the violent ſuppreſſors thereof.</p>
+               <p>The Biſhops will alwaies ſuppreſſe diligent preachers which cary away the reputation from them, may in time alſo cary away their reward and ſhare their Biſhoprickes among them; and for the ſame reaſon they will alwais favour dumb prieſts, that preach as little as themſelves<g ref="char:punc">▪</g> becauſe they neither eclipſe their honour, nor endanger their profits.</p>
+               <p>The Biſhops neither can nor will be diligent preachers them<g ref="char:EOLhyphen"/>ſelves, ſo long as beſides their Miniſteriall functions they have a whole Dioceſſe to rule, and cumber themſelves with places of ci<g ref="char:EOLhyphen"/>vill Iuriſdiction beſides, and they much accompanied with great temporall dignities and revenues: multitude and diverſity of em<g ref="char:EOLhyphen"/>ployments make them unable, and the height of temporall ho<g ref="char:EOLhyphen"/>nour<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, exceſſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of w<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rldly wealth, make them too ſtately, and too idle to diſcharge their Miniſterial functions as they ought, ſo that they muſt leave their ſweetneſſe and their fatneſſe, if with the bramble they will reign over the trees.</p>
+               <pb n="8" facs="tcp:124220:5"/>
+               <p>Upon the whole ma<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ter the queſti<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n is, whether the appoin<g ref="char:EOLhyphen"/>ting of a certain number of Lay-men, by his Majeſty and his Par<g ref="char:EOLhyphen"/>liament to exerciſe all Eccleſiaſticall Iuriſdiction under them, and by their authority inſtead of Arch-biſhops and Biſhops, appoin<g ref="char:EOLhyphen"/>ting a certaine number of Laymen to exerciſe it under them by their authority, in their names and under their ſeales, and whe<g ref="char:EOLhyphen"/>ther 5 or more of their learned Divines appointed by authority of Parliament to ordain Miniſters in ſtead of one man (when his Majeſty gives the title of a Biſhop) appointed to do it by act of Parliament together with 4 or more other Miniſters, be an alte<g ref="char:EOLhyphen"/>ration of that conſequence, as to be put in ballance with the ſafe<g ref="char:EOLhyphen"/>guard of his Majeſties royall authority, the encreaſe of his reve<g ref="char:EOLhyphen"/>nue, the unity of his Majeſties Kingdomes in and between them<g ref="char:EOLhyphen"/>ſelves, and with other reformed Churches, and the ſetling of a good underſtanding betweene the King &amp; his people by ſecuring unto them their Religion and Liberties.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:124220:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
